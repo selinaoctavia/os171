@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 selina.octavia StafCS 4096 Feb 18 10:42 .
+drwx--x--x  3 selina.octavia StafCS 4096 Feb 18 10:38 ..
+drwxr-xr-x  8 selina.octavia StafCS 4096 Feb 18 10:40 .git
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:24 key
+-rw-r--r--  1 selina.octavia StafCS    0 Feb 18 10:42 lab01.txt
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:23 log
+-rw-r--r--  1 selina.octavia StafCS    7 Feb 18 10:16 README.md
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:32 sandbox
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:38 week00
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:20 week01
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:21 week02
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:21 week03
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:21 week04
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:21 week05
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:22 week06
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:22 week07
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:22 week08
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:23 week09
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:23 week10
+drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:24 xtra
+/home/fasilkom/mahasiswa/s/selina.octavia/os171/week01
