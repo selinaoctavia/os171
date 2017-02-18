@@ -20,3 +20,4 @@ drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:23 week09
 drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:23 week10
 drwxr-xr-x  2 selina.octavia StafCS 4096 Feb 18 10:24 xtra
 /home/fasilkom/mahasiswa/s/selina.octavia/os171/week01
+Today is 18 Feb 2017 at 10:58:43
