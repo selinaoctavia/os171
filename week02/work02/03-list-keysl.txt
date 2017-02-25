@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/s/selina.octavia/.gnupg/pubring.gpg
+------------------------------------------------------------
+pub   4096R/14B3AE1F 2017-02-25 [expires: 2017-08-24]
+uid                  Selina Octavia (studying OS is ez!) <selina.octavia@ui.ac.id>
+sub   4096R/3BDEC553 2017-02-25 [expires: 2017-08-24]
+
