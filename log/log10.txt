@@ -1,0 +1,7 @@
+w10-170520-08:00-PS-Create Ulasan 2
+w10-170523-22:00-PS-Create Ranking 00
+w10-170523-22:20-PS-Create Ranking 01
+w10-170523-22:40-PS-Create Ranking 03
+w10-170523-23:00-PS-Create Ranking 05
+w10-170523-23:20-PS-Create Ranking 07
+w10-170523-23:40-PS-Create Ranking 09
